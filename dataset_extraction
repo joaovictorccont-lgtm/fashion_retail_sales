@@ -1,0 +1,3 @@
+Dataset was extracted from kaggle.com on the following link: https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset/data
+
+Due to the size of the dataset, i used only the transactions occurred in 2023 and 2024 and deleted rest of it.
